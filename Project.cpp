@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int ariv[15],p[15],prio[15],i,j,n=3,temp;
+    int ariv[15],p[15],prio[15],i,j,n=10,temp;
     printf("Total Number of students(i.e processes) is 10");
     printf("\nEnter arrival Time of each student and number of gifts each one has(i.e arrival time and priority of each process)\n");
     for(i=0;i<n;i++)
